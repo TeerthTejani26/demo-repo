@@ -5,3 +5,7 @@ This project is a simple web application built using HTML, CSS, and JavaScript. 
 ## Subheader
 
 if you would like to contribute to the project, feel free to fork the repository and submit a pull request with your changes.
+
+## Local Development
+
+1. Open index.html in your browser.
